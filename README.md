@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# CrytoTrack
+CoinEx provides comprehensive data on various cryptocurrency exchanges and coins. Stay updated with real-time market trends, detailed coin information, and secure exchange rates.
+>>>>>>> d115df24a88deb2c62ece76616aa6f7b7c3383f9
